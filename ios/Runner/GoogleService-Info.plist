@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>667844683037-q3toqatm10l2mu8q62tangnsjh1ge90s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.667844683037-q3toqatm10l2mu8q62tangnsjh1ge90s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ3e4KCGzRHsc4P94jxxCyx2hi_41OeDE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>667844683037</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kampiapp</string>
+	<key>PROJECT_ID</key>
+	<string>fir-tutorial-4a37a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-tutorial-4a37a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:667844683037:ios:c259a78a39f1ecfc302df4</string>
+</dict>
+</plist>
